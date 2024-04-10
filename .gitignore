@@ -13,7 +13,7 @@ build
 .sln
 .cmake
 .CMakeFiles
-.Testing
+Testing
 .ninja_deps
 .ninja_log
 .build.ninja
