@@ -1,7 +1,7 @@
 cmake-build-debug
-.idea
+idea
 main.exe
-.vs
+vs
 Debug
 out
 x64
@@ -12,7 +12,7 @@ build
 .vcxproj.user
 .sln
 .cmake
-.CMakeFiles
+CMakeFiles
 Testing
 .ninja_deps
 .ninja_log

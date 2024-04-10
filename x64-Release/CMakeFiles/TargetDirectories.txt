@@ -1,3 +1,0 @@
-D:/Create_txt_files/Create_txt/out/build/x64-Release/CMakeFiles/Create.dir
-D:/Create_txt_files/Create_txt/out/build/x64-Release/CMakeFiles/edit_cache.dir
-D:/Create_txt_files/Create_txt/out/build/x64-Release/CMakeFiles/rebuild_cache.dir
